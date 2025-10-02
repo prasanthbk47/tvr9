@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "631838687381",
+    "project_id": "vignaraja-b2a5e",
+    "storage_bucket": "vignaraja-b2a5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631838687381:android:f7d9627673346ab0de5b9c",
+        "android_client_info": {
+          "package_name": "com.mycompany.vignaraja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSg9sfmT8jeJJBxmHTMTdPh4V-uqHmIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631838687381:android:78505965a9f01cfade5b9c",
+        "android_client_info": {
+          "package_name": "com.mycompany.vingnaraja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSg9sfmT8jeJJBxmHTMTdPh4V-uqHmIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631838687381:android:c55f2fd84300bc0ede5b9c",
+        "android_client_info": {
+          "package_name": "com.vignaraja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcSg9sfmT8jeJJBxmHTMTdPh4V-uqHmIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
